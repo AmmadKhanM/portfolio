@@ -1558,14 +1558,10 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 
 
-
-/**
- * responsive larger than 1250px screen
- */
- @media (max-width: 1250px) {
-  .avatar-box { border-radius: 17px;        overflow: hidden;
-    height: 134px; }
- }
+@media (min-width: 581px) {
+.avatar-box { border-radius: 17px;        overflow: hidden;
+  height: 134px; }
+}
 
 /**
  * responsive larger than 768px screen
@@ -1660,6 +1656,8 @@ textarea.form-input::-webkit-resizer { display: none; }
     width: max-content;
     margin-left: auto;
   }
+  .avatar-box { border-radius: 17px;        overflow: hidden;
+    height: 134px; }
   
 }
 

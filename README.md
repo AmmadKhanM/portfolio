@@ -1,44 +1,31 @@
-# vCard - Personal portfolio
+# Syed Ammad Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Welcome to the repository for Syed Ammad portfolio website. This project showcases a collection of web development and design work, demonstrating various skills and projects.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+## Table of Contents
 
-## Demo
+- [About](#about)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contact](#contact)
+- [License](#license)
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+## About
 
-## Prerequisites
+This portfolio website is a personal showcase of Ammad Khan’s work in web development and design. It includes a variety of projects with detailed descriptions and links.
 
-Before you begin, ensure you have met the following requirements:
+## Features
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- **Responsive Design**: The website is optimized for both desktop and mobile devices.
+- **Project Gallery**: Displays a list of projects with descriptions and links.
+- **Contact Form**: Allows visitors to get in touch via email.
 
-## Installing vCard
+## Installation
 
-To install **vCard**, follow these steps:
+To run this portfolio locally, follow these steps:
 
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-MIT
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/ammadkhanm/portfolio.git

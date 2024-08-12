@@ -1661,7 +1661,13 @@ textarea.form-input::-webkit-resizer { display: none; }
   
 }
 
-
+@media (min-width: 1240px) {
+  .avatar-box {
+    border-radius: 17px;
+    overflow: hidden;
+    height: 193px;
+  }
+}
 
 
 
